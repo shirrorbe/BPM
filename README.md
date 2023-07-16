@@ -27,7 +27,7 @@ https://github.com/shirrorbe/BPM.git
 - Run the ```runme.m``` script in MATLAB
 
 ### BPM simulation on a triangle and its 3 neighbors
-<img width="534" alt="simulation_4triangles" src="https://github.com/shirrorbe/BPM/assets/58402813/c1996543-75b8-4c3f-a3ee-2039c7b6b689">
+![simulation_4triangles](simulation_4triangles.png)
 Simulation of the BPM parameterization on 4 triangles visualized by a subdivision. Flipped triangles are colored in red.
 
 - Run the ```runme_4TriaglesSimulation.m``` script in MATLAB
