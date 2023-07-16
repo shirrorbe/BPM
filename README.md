@@ -26,17 +26,10 @@ https://github.com/shirrorbe/BPM.git
 ###  Main BPM parameterization
 - Run the ```runme.m``` script in MATLAB
 
-### BPM simulation on a triangle and its 3 neighbors
-![simulation_4triangles](simulation_4triangles.png)
-Simulation of the BPM parameterization on 4 triangles visualized by a subdivision. Flipped triangles are colored in red.
 
-- Run the ```runme_4TriaglesSimulation.m``` script in MATLAB
-- To move a point, left click on it and move the cursor. In the right point location press the right bottom.
+### Input files
+- meshname.obj - The input mesh with texture coordinates
 
-### Note
-- This is a MATLAB implementation and requires MATLAB 2019a or newer 
-
- 
 ### Output files
  - meshname_Mz.off/png - the input source Discrete mesh parameterization
  - meshname_Mw.off/png - the input target Discrete mesh parameterization
@@ -54,6 +47,17 @@ Simulation of the BPM parameterization on 4 triangles visualized by a subdivisio
  Our project was built using the following open source projects:
 
 [gptoolbox](https://github.com/alecjacobson/gptoolbox)
+
+### BPM simulation on a triangle and its 3 neighbors
+![simulation_4triangles](simulation_4triangles.png)
+Simulation of the BPM parameterization on 4 triangles visualized by a subdivision. Flipped triangles are colored in red.
+
+- Run the ```runme_4TriaglesSimulation.m``` script in MATLAB
+- To move a point, left click on it and move the cursor. In the right point location press the right bottom.
+
+### Note
+- This is a MATLAB implementation and requires MATLAB 2019a or newer 
+
 
 ## Citation
 
