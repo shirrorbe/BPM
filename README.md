@@ -24,8 +24,12 @@ If you have any questions or issues running the code, please open an issue or co
 https://github.com/shirrorbe/BPM.git
 ```
 
+###  Main BPM parameterization
 - Run the ```runme.m``` script in MATLAB
 
+### BPM simulation on a triangle and its 3 neighbors
+
+![simulation_4triangles](https://github.com/shirrorbe/BPM/assets/58402813/0069418e-6248-4934-983d-4fe70368b962)
 
 ### Note
 - This is a MATLAB implementation and requires MATLAB 2019a or newer 
