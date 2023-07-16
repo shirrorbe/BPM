@@ -7,7 +7,7 @@ Shir Rorberg,
 [Amir Vaxman](https://avaxman.github.io/) and 
 [Mirela Ben-Chen](https://mirela.net.technion.ac.il/).
 
-[Paper](https://mirelabc.github.io/publications/BPM.pdf), 
+[Paper](https://mirelabc.github.io/publications/BPM.pdf)
 
 
 ![teaser](teaser.png)
