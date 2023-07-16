@@ -28,7 +28,7 @@ https://github.com/shirrorbe/BPM.git
 - Run the ```runme.m``` script in MATLAB
 
 ### BPM simulation on a triangle and its 3 neighbors
-<img width="1063" alt="simulation_4triangles" src="https://github.com/shirrorbe/BPM/assets/58402813/cec970db-0168-4293-bf01-81cf63a6590c">
+<img width="534" alt="simulation_4triangles" src="https://github.com/shirrorbe/BPM/assets/58402813/c1996543-75b8-4c3f-a3ee-2039c7b6b689">
 
 
 - Run the ```runme_4TriaglesSimulation.m``` script in MATLAB
