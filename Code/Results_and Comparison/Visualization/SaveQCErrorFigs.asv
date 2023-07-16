@@ -1,0 +1,46 @@
+function f = SaveQCErrorFigs(mesh, error,climit,cm_data ,filename, save_figs_flag, show_figs_flag)
+    f = figure('visible','off');
+    h = function_visualization_on_mesh(mesh.V,mesh.F,error);
+    set(h,'edgecolor','none')
+    clim(climit)
+    set(colorbar,'visible','off')
+    colormap(cm_data)
+    axis off
+    set(gcf,'color','w')
+    
+    if save_figs_flag
+        export_fig(filename,'-nocrop','-m3');
+        savefig([filename,'_fig.fig'])
+    end
+   
+    if show_figs_flag
+        figure(f)
+        set(gcf, 'WindowStyle', 'docked')
+    end
+
+% xlabel('$\alpha$', 'fontsize', 20, 'interpreter', 'latex');
+% ylabel('$\frac{| u_\alpha (x) - u_0 (x) |}{|u_0 (x)|}$', 'fontsize', 20, 'interpreter', 'latex');
+% % plot(etas, dists,'.-', 'linewidth', 2 , 'markersize', 30)
+% set(gca,'fontsize',20, 'TickLabelInterpreter', 'latex');
+% set(gcf,'color','w');
+% 
+% plotname = [expdir 'error_a0'];
+% print([plotname, 'XX.pdf'], '-dpdf');
+% 
+% 
+% if save_figs_flag
+%         export_fig(filename,'-nocrop','-m3');
+%     end
+%    
+%     if show_figs_flag
+%         figure(f)
+%         set(gcf, 'WindowStyle', 'docked')
+%     end
+% 
+
+
+% 
+% 
+
+
+end
