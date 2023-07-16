@@ -31,6 +31,9 @@ https://github.com/shirrorbe/BPM.git
 
 ![simulation_4triangles](https://github.com/shirrorbe/BPM/assets/58402813/0069418e-6248-4934-983d-4fe70368b962)
 
+- Run the ```runme_4TriaglesSimulation.m``` script in MATLAB
+- To move a point, left click on it and move the cursor. In the right point location press the right bottom.
+
 ### Note
 - This is a MATLAB implementation and requires MATLAB 2019a or newer 
 
