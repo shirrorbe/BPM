@@ -4,7 +4,7 @@
 MATLAB implementation of 
 "BPM: Blended Piecewise Moebius Maps" by 
 Shir Rorberg, 
-[Amir Vaxman](https://webspace.science.uu.nl/~vaxma001/) and 
+[Amir Vaxman](https://avaxman.github.io/) and 
 [Mirela Ben-Chen](https://mirela.net.technion.ac.il/).
 
 [Paper](https://mirelabc.github.io/publications/BPM.pdf), 
