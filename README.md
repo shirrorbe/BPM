@@ -37,8 +37,10 @@ https://github.com/shirrorbe/BPM.git
  - meshname_Mw_BPM_out - BPM interpolation of the discrete param of the  mesh
  - meshname_Mz_linear_out, meshname_Mw_linear_out - linear interpolation of the discrete param of the  mesh
  - meshname_Mz_proj_out, meshname_Mw_proj_out - projective interpolation of the discrete param of the mesh
+ - texture.png - the input texture
  - meshname_Mz2Mw_Mz_QCerr - Quasi-conformal error on top of the spurce mesh
  - meshname_Mz2Mw_Mw_QCerr - Quasi-conformal error on top of the target mesh
+ - colorbar.png - the colorbar for the QC error
 
 
 ## Dependencies
