@@ -28,8 +28,8 @@ https://github.com/shirrorbe/BPM.git
 - Run the ```runme.m``` script in MATLAB
 
 ### BPM simulation on a triangle and its 3 neighbors
+<img width="1063" alt="simulation_4triangles" src="https://github.com/shirrorbe/BPM/assets/58402813/cec970db-0168-4293-bf01-81cf63a6590c">
 
-![simulation_4triangles](https://github.com/shirrorbe/BPM/assets/58402813/0069418e-6248-4934-983d-4fe70368b962)
 
 - Run the ```runme_4TriaglesSimulation.m``` script in MATLAB
 - To move a point, left click on it and move the cursor. In the right point location press the right bottom.
